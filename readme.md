@@ -6,7 +6,7 @@ a prompt `llm-uhk-smart-macro-initial-prompt.md` that you can copy and paste int
 A subscription to ChatGPT Plus since GPT-4 (Turbo) is required.
 
 - [macros.md](macros.md) (contains useful smart macros)
-- [llm-uhk-smart-macro-initial-prompt.md]([llm-uhk-smart-macro-initial-prompt.md](https://raw.githubusercontent.com/TransitNow/uhk-60-agent-macro-gpt-prompt/main/llm-uhk-smart-macro-initial-prompt.md)) (copy and paste in ChatGPT)
+- [https://raw.githubusercontent.com/TransitNow/uhk-60-agent-macro-gpt-prompt/main/llm-uhk-smart-macro-initial-prompt.md](llm-uhk-smart-macro-initial-prompt.md) (copy and paste in ChatGPT)
 
 ## What's next
 - Add more complex examples to help the LLM better craft smart macros (carefully selected from the [UHK forums](https://forum.ultimatehackingkeyboard.com/))
